@@ -1,10 +1,3 @@
-/**
-* 
-* @Author: Fukakai,Mohorelien, Marc, Michael
-* 03.06.2013
-* Ping, servo, led and directions
-*/
-
 #include<Servo.h>
 #include<NewPing.h>
 
